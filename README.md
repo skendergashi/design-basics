@@ -6,6 +6,7 @@ This Repo contains some design basics for a **hypothetical web-page**.
 
 | Resource                        | Description       |
 | :------------------------------ | :---------------- |
-| [Color](./color.md)             | Color basics      |
-| [Typography](./typography.md)   | Typography basics |
-| [Breakpoints](./breakpoints.md) | Breakpoint basics |
+| [Color](./Colors.md)            | Color basics      |
+| [Typography](./Typographies.md) | Typography basics |
+| [Breakpoints](./Breakpoints.md) | Breakpoint basics |
+| [Shadows](./Shadows.md)         | Shadow basics     |
