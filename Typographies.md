@@ -2,8 +2,4 @@
 
 ## Font families
 
-The font families used in the project are:
-
-1. **Roboto** (default)
-2. **Roboto Mono** (monospace)
-3. **Roboto Slab** (serif)
+[Instrument Sans](https://fonts.google.com/specimen/Instrument+Sans) is the main font family used in the app. It is a sans-serif font with a geometric feel. It is used for all the text in the app.
